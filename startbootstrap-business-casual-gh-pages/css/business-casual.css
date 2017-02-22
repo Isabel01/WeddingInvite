@@ -146,7 +146,7 @@ footer p {
         font-weight: 400;
         letter-spacing: 3px;
         color: #fff;
-        
+
 
     }
 
@@ -192,3 +192,8 @@ footer p {
         clear: both;
     }
 }
+
+.center {
+    display: inline-block;
+}
+
