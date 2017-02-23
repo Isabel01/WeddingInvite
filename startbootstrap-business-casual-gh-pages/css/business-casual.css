@@ -196,3 +196,7 @@ footer p {
 .center {
     display: inline-block;
 }
+
+.circle{
+    padding-bottom: 10px;
+}
